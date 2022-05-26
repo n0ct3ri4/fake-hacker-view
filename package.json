@@ -1,0 +1,31 @@
+{
+  "name": "fakehackerview",
+  "version": "1.0.0",
+  "description": "Fake Hacker View, lines of random characters.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/FakeHackerView.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "fake",
+    "hacker",
+    "view"
+  ],
+  "author": "n0ct3ri4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/FakeHackerView/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/FakeHackerView#readme",
+  "dependencies": {
+    "colors": "1.4.0",
+    "uuid": "8.3.2"
+  }
+}
